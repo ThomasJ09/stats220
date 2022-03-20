@@ -2,7 +2,7 @@
 ![](my_meme.png)
 
 ## About my Meme
-I got my inspiration for my meme from this other minions meme I found online which is shown below. I then made it into a four square meme rather then just all in one box.
+I got my inspiration for my meme from this other minions meme I found online which is shown below. I then made it into a four square meme rather then just all in one box so that my meme would be more original, In my humble opinion I have made it much better.
 
 
 ![](https://cache.lovethispic.com/uploaded_images/190642-Exercise-I-Thought-You-Said-Extra-Fries.jpg)
