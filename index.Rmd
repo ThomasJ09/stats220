@@ -19,6 +19,7 @@ https://github.com/ThomasJ09/stats220
 
 ## Animated Gif Creation
 
+```
 ```{r circle set up}
 #These lines of code gather a red, orange and green circle for me too use later on in my code.
 
@@ -60,7 +61,7 @@ frames <- c(frame1, frame2, frame3, frame4)
 
 image_animate(frames, fps = 2)
 ```
-
+```
 
 ## Learning Reflection
 
