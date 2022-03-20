@@ -8,6 +8,7 @@ I got my inspiration for my meme from this other minions meme I found online whi
 ![](https://cache.lovethispic.com/uploaded_images/190642-Exercise-I-Thought-You-Said-Extra-Fries.jpg)
 
 ### R Code for my Meme
+```
 library(magick)
 
 sad_minion <- image_read("https://toppng.com/public/uploads/preview/15-sad-minion-png-for-free-on-mbtskoudsalg-awesome-notebook-notebook-journal-diary-lined-11563082197ihosrzfbek.png") %>%  
@@ -47,3 +48,4 @@ meme <- c(top_row, bottom_row) %>%
 
   
 image_write(meme, "my_meme.png")
+```
