@@ -18,8 +18,6 @@ Below is a link too my Github page where I share all of the projects I am workin
 https://github.com/ThomasJ09/stats220
 
 ## Animated Gif Creation
-
-```
 ```{r circle set up}
 #These lines of code gather a red, orange and green circle for me too use later on in my code.
 
@@ -60,7 +58,6 @@ frame4 <- image_read("https://i.pinimg.com/originals/5d/fe/01/5dfe01065696d4939e
 frames <- c(frame1, frame2, frame3, frame4)
 
 image_animate(frames, fps = 2)
-```
 ```
 
 ## Learning Reflection
